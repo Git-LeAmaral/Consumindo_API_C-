@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{63D47441-E5EA-4D58-9920-E44D3D8B688E}|ScreenSoundApi\\ScreenSoundApi.csproj|solutionrelative:screensoundapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{63D47441-E5EA-4D58-9920-E44D3D8B688E}|ScreenSoundApi\\ScreenSoundApi.csproj|c:\\users\\nggal\\onedrive\\\u00E1rea de trabalho\\alura\\c# .net\\screensoundapi\\screensoundapi\\filtros\\linqorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D47441-E5EA-4D58-9920-E44D3D8B688E}|ScreenSoundApi\\ScreenSoundApi.csproj|solutionrelative:screensoundapi\\filtros\\linqorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{63D47441-E5EA-4D58-9920-E44D3D8B688E}|ScreenSoundApi\\ScreenSoundApi.csproj|c:\\users\\nggal\\onedrive\\\u00E1rea de trabalho\\alura\\c# .net\\screensoundapi\\screensoundapi\\filtros\\linqfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63D47441-E5EA-4D58-9920-E44D3D8B688E}|ScreenSoundApi\\ScreenSoundApi.csproj|solutionrelative:screensoundapi\\filtros\\linqfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,11 +26,24 @@
       "DocumentGroups": [
         {
           "DockedHeight": 379,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "LinqOrder.cs",
+              "DocumentMoniker": "C:\\Users\\nggal\\OneDrive\\\u00C1rea de Trabalho\\ALURA\\C# .NET\\ScreenSoundApi\\ScreenSoundApi\\Filtros\\LinqOrder.cs",
+              "RelativeDocumentMoniker": "ScreenSoundApi\\Filtros\\LinqOrder.cs",
+              "ToolTip": "C:\\Users\\nggal\\OneDrive\\\u00C1rea de Trabalho\\ALURA\\C# .NET\\ScreenSoundApi\\ScreenSoundApi\\Filtros\\LinqOrder.cs",
+              "RelativeToolTip": "ScreenSoundApi\\Filtros\\LinqOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T16:15:41.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "LinqFilter.cs",
               "DocumentMoniker": "C:\\Users\\nggal\\OneDrive\\\u00C1rea de Trabalho\\ALURA\\C# .NET\\ScreenSoundApi\\ScreenSoundApi\\Filtros\\LinqFilter.cs",
               "RelativeDocumentMoniker": "ScreenSoundApi\\Filtros\\LinqFilter.cs",
@@ -34,12 +51,11 @@
               "RelativeToolTip": "ScreenSoundApi\\Filtros\\LinqFilter.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-03T16:02:34.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-03T16:02:34.148Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Musica.cs",
               "DocumentMoniker": "C:\\Users\\nggal\\OneDrive\\\u00C1rea de Trabalho\\ALURA\\C# .NET\\ScreenSoundApi\\ScreenSoundApi\\Modelos\\Musica.cs",
               "RelativeDocumentMoniker": "ScreenSoundApi\\Modelos\\Musica.cs",
@@ -47,8 +63,7 @@
               "RelativeToolTip": "ScreenSoundApi\\Modelos\\Musica.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-03T03:28:36.33Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-03T03:28:36.33Z"
             },
             {
               "$type": "Document",
@@ -58,7 +73,7 @@
               "RelativeDocumentMoniker": "ScreenSoundApi\\Program.cs",
               "ToolTip": "C:\\Users\\nggal\\OneDrive\\\u00C1rea de Trabalho\\ALURA\\C# .NET\\ScreenSoundApi\\ScreenSoundApi\\Program.cs",
               "RelativeToolTip": "ScreenSoundApi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA6AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-03T02:32:09.314Z",
               "EditorCaption": ""

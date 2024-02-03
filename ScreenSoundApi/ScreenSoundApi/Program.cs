@@ -12,7 +12,8 @@ using (HttpClient client = new HttpClient())
         //Console.WriteLine(musicas.Count);
         //musicas[0].ExibirDetalhesDaMusica();
 
-        LinqFilter.FiltrarTodosOsGenerosMusicais(musicas);
+        //LinqFilter.FiltrarTodosOsGenerosMusicais(musicas);
+        LinqOrder.ExibirListaDeArtistasOrdenados(musicas);
     }
     catch (Exception ex)
     {
