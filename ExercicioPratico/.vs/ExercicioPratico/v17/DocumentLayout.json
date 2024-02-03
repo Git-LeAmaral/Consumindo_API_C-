@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nggal\\OneDrive\\\u00C1rea de Trabalho\\ALURA\\C# .NET\\ExercicioPratico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A586E93-143A-41E0-813C-0237A6C41D2B}|ExercicioPratico\\ExercicioPratico.csproj|c:\\users\\nggal\\onedrive\\\u00E1rea de trabalho\\alura\\c# .net\\exerciciopratico\\exerciciopratico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A586E93-143A-41E0-813C-0237A6C41D2B}|ExercicioPratico\\ExercicioPratico.csproj|solutionrelative:exerciciopratico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A586E93-143A-41E0-813C-0237A6C41D2B}|ExercicioPratico\\ExercicioPratico.csproj|c:\\users\\nggal\\onedrive\\\u00E1rea de trabalho\\alura\\c# .net\\exerciciopratico\\exerciciopratico\\modelo\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A586E93-143A-41E0-813C-0237A6C41D2B}|ExercicioPratico\\ExercicioPratico.csproj|solutionrelative:exerciciopratico\\modelo\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A586E93-143A-41E0-813C-0237A6C41D2B}|ExercicioPratico\\ExercicioPratico.csproj|c:\\users\\nggal\\onedrive\\\u00E1rea de trabalho\\alura\\c# .net\\exerciciopratico\\exerciciopratico\\modelo\\pais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A586E93-143A-41E0-813C-0237A6C41D2B}|ExercicioPratico\\ExercicioPratico.csproj|solutionrelative:exerciciopratico\\modelo\\pais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A586E93-143A-41E0-813C-0237A6C41D2B}|ExercicioPratico\\ExercicioPratico.csproj|c:\\users\\nggal\\onedrive\\\u00E1rea de trabalho\\alura\\c# .net\\exerciciopratico\\exerciciopratico\\modelo\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A586E93-143A-41E0-813C-0237A6C41D2B}|ExercicioPratico\\ExercicioPratico.csproj|solutionrelative:exerciciopratico\\modelo\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 379,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\nggal\\OneDrive\\\u00C1rea de Trabalho\\ALURA\\C# .NET\\ExercicioPratico\\ExercicioPratico\\Modelo\\Carro.cs",
+              "RelativeDocumentMoniker": "ExercicioPratico\\Modelo\\Carro.cs",
+              "ToolTip": "C:\\Users\\nggal\\OneDrive\\\u00C1rea de Trabalho\\ALURA\\C# .NET\\ExercicioPratico\\ExercicioPratico\\Modelo\\Carro.cs",
+              "RelativeToolTip": "ExercicioPratico\\Modelo\\Carro.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T13:57:38.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pais.cs",
+              "DocumentMoniker": "C:\\Users\\nggal\\OneDrive\\\u00C1rea de Trabalho\\ALURA\\C# .NET\\ExercicioPratico\\ExercicioPratico\\Modelo\\Pais.cs",
+              "RelativeDocumentMoniker": "ExercicioPratico\\Modelo\\Pais.cs",
+              "ToolTip": "C:\\Users\\nggal\\OneDrive\\\u00C1rea de Trabalho\\ALURA\\C# .NET\\ExercicioPratico\\ExercicioPratico\\Modelo\\Pais.cs",
+              "RelativeToolTip": "ExercicioPratico\\Modelo\\Pais.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T13:17:14.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Filme.cs",
+              "DocumentMoniker": "C:\\Users\\nggal\\OneDrive\\\u00C1rea de Trabalho\\ALURA\\C# .NET\\ExercicioPratico\\ExercicioPratico\\Modelo\\Filme.cs",
+              "RelativeDocumentMoniker": "ExercicioPratico\\Modelo\\Filme.cs",
+              "ToolTip": "C:\\Users\\nggal\\OneDrive\\\u00C1rea de Trabalho\\ALURA\\C# .NET\\ExercicioPratico\\ExercicioPratico\\Modelo\\Filme.cs",
+              "RelativeToolTip": "ExercicioPratico\\Modelo\\Filme.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T04:06:26.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nggal\\OneDrive\\\u00C1rea de Trabalho\\ALURA\\C# .NET\\ExercicioPratico\\ExercicioPratico\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioPratico\\Program.cs",
+              "ToolTip": "C:\\Users\\nggal\\OneDrive\\\u00C1rea de Trabalho\\ALURA\\C# .NET\\ExercicioPratico\\ExercicioPratico\\Program.cs",
+              "RelativeToolTip": "ExercicioPratico\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-03T04:00:51.232Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
