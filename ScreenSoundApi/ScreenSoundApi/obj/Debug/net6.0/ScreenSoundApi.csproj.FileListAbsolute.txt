@@ -1,0 +1,29 @@
+C:\Users\nggal\OneDrive\Área de Trabalho\C#\ScreenSoundApi\ScreenSoundApi\bin\Debug\net6.0\ScreenSoundApi.exe
+C:\Users\nggal\OneDrive\Área de Trabalho\C#\ScreenSoundApi\ScreenSoundApi\bin\Debug\net6.0\ScreenSoundApi.deps.json
+C:\Users\nggal\OneDrive\Área de Trabalho\C#\ScreenSoundApi\ScreenSoundApi\bin\Debug\net6.0\ScreenSoundApi.runtimeconfig.json
+C:\Users\nggal\OneDrive\Área de Trabalho\C#\ScreenSoundApi\ScreenSoundApi\bin\Debug\net6.0\ScreenSoundApi.dll
+C:\Users\nggal\OneDrive\Área de Trabalho\C#\ScreenSoundApi\ScreenSoundApi\bin\Debug\net6.0\ScreenSoundApi.pdb
+C:\Users\nggal\OneDrive\Área de Trabalho\C#\ScreenSoundApi\ScreenSoundApi\obj\Debug\net6.0\ScreenSoundApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nggal\OneDrive\Área de Trabalho\C#\ScreenSoundApi\ScreenSoundApi\obj\Debug\net6.0\ScreenSoundApi.AssemblyInfoInputs.cache
+C:\Users\nggal\OneDrive\Área de Trabalho\C#\ScreenSoundApi\ScreenSoundApi\obj\Debug\net6.0\ScreenSoundApi.AssemblyInfo.cs
+C:\Users\nggal\OneDrive\Área de Trabalho\C#\ScreenSoundApi\ScreenSoundApi\obj\Debug\net6.0\ScreenSoundApi.csproj.CoreCompileInputs.cache
+C:\Users\nggal\OneDrive\Área de Trabalho\C#\ScreenSoundApi\ScreenSoundApi\obj\Debug\net6.0\ScreenSoundApi.dll
+C:\Users\nggal\OneDrive\Área de Trabalho\C#\ScreenSoundApi\ScreenSoundApi\obj\Debug\net6.0\refint\ScreenSoundApi.dll
+C:\Users\nggal\OneDrive\Área de Trabalho\C#\ScreenSoundApi\ScreenSoundApi\obj\Debug\net6.0\ScreenSoundApi.pdb
+C:\Users\nggal\OneDrive\Área de Trabalho\C#\ScreenSoundApi\ScreenSoundApi\obj\Debug\net6.0\ScreenSoundApi.genruntimeconfig.cache
+C:\Users\nggal\OneDrive\Área de Trabalho\C#\ScreenSoundApi\ScreenSoundApi\obj\Debug\net6.0\ref\ScreenSoundApi.dll
+C:\Users\nggal\OneDrive\Área de Trabalho\ALURA\C# .NET\ScreenSoundApi\ScreenSoundApi\bin\Debug\net6.0\ScreenSoundApi.exe
+C:\Users\nggal\OneDrive\Área de Trabalho\ALURA\C# .NET\ScreenSoundApi\ScreenSoundApi\bin\Debug\net6.0\ScreenSoundApi.deps.json
+C:\Users\nggal\OneDrive\Área de Trabalho\ALURA\C# .NET\ScreenSoundApi\ScreenSoundApi\bin\Debug\net6.0\ScreenSoundApi.runtimeconfig.json
+C:\Users\nggal\OneDrive\Área de Trabalho\ALURA\C# .NET\ScreenSoundApi\ScreenSoundApi\bin\Debug\net6.0\ScreenSoundApi.dll
+C:\Users\nggal\OneDrive\Área de Trabalho\ALURA\C# .NET\ScreenSoundApi\ScreenSoundApi\bin\Debug\net6.0\ScreenSoundApi.pdb
+C:\Users\nggal\OneDrive\Área de Trabalho\ALURA\C# .NET\ScreenSoundApi\ScreenSoundApi\obj\Debug\net6.0\ScreenSoundApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nggal\OneDrive\Área de Trabalho\ALURA\C# .NET\ScreenSoundApi\ScreenSoundApi\obj\Debug\net6.0\ScreenSoundApi.AssemblyInfoInputs.cache
+C:\Users\nggal\OneDrive\Área de Trabalho\ALURA\C# .NET\ScreenSoundApi\ScreenSoundApi\obj\Debug\net6.0\ScreenSoundApi.AssemblyInfo.cs
+C:\Users\nggal\OneDrive\Área de Trabalho\ALURA\C# .NET\ScreenSoundApi\ScreenSoundApi\obj\Debug\net6.0\ScreenSoundApi.csproj.CoreCompileInputs.cache
+C:\Users\nggal\OneDrive\Área de Trabalho\ALURA\C# .NET\ScreenSoundApi\ScreenSoundApi\obj\Debug\net6.0\ScreenSoundApi.sourcelink.json
+C:\Users\nggal\OneDrive\Área de Trabalho\ALURA\C# .NET\ScreenSoundApi\ScreenSoundApi\obj\Debug\net6.0\ScreenSoundApi.dll
+C:\Users\nggal\OneDrive\Área de Trabalho\ALURA\C# .NET\ScreenSoundApi\ScreenSoundApi\obj\Debug\net6.0\refint\ScreenSoundApi.dll
+C:\Users\nggal\OneDrive\Área de Trabalho\ALURA\C# .NET\ScreenSoundApi\ScreenSoundApi\obj\Debug\net6.0\ScreenSoundApi.pdb
+C:\Users\nggal\OneDrive\Área de Trabalho\ALURA\C# .NET\ScreenSoundApi\ScreenSoundApi\obj\Debug\net6.0\ScreenSoundApi.genruntimeconfig.cache
+C:\Users\nggal\OneDrive\Área de Trabalho\ALURA\C# .NET\ScreenSoundApi\ScreenSoundApi\obj\Debug\net6.0\ref\ScreenSoundApi.dll
