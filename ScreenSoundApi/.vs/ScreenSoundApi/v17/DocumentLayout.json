@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\nggal\\OneDrive\\\u00C1rea de Trabalho\\ALURA\\C# .NET\\ScreenSoundApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{63D47441-E5EA-4D58-9920-E44D3D8B688E}|ScreenSoundApi\\ScreenSoundApi.csproj|c:\\users\\nggal\\onedrive\\\u00E1rea de trabalho\\alura\\c# .net\\screensoundapi\\screensoundapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63D47441-E5EA-4D58-9920-E44D3D8B688E}|ScreenSoundApi\\ScreenSoundApi.csproj|solutionrelative:screensoundapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nggal\\OneDrive\\\u00C1rea de Trabalho\\ALURA\\C# .NET\\ScreenSoundApi\\ScreenSoundApi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ScreenSoundApi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63D47441-E5EA-4D58-9920-E44D3D8B688E}|ScreenSoundApi\\ScreenSoundApi.csproj|c:\\users\\nggal\\onedrive\\\u00E1rea de trabalho\\alura\\c# .net\\screensoundapi\\screensoundapi\\filtros\\linqorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63D47441-E5EA-4D58-9920-E44D3D8B688E}|ScreenSoundApi\\ScreenSoundApi.csproj|solutionrelative:screensoundapi\\filtros\\linqorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nggal\\OneDrive\\\u00C1rea de Trabalho\\ALURA\\C# .NET\\ScreenSoundApi\\ScreenSoundApi\\Filtros\\LinqOrder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ScreenSoundApi\\Filtros\\LinqOrder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63D47441-E5EA-4D58-9920-E44D3D8B688E}|ScreenSoundApi\\ScreenSoundApi.csproj|c:\\users\\nggal\\onedrive\\\u00E1rea de trabalho\\alura\\c# .net\\screensoundapi\\screensoundapi\\filtros\\linqfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63D47441-E5EA-4D58-9920-E44D3D8B688E}|ScreenSoundApi\\ScreenSoundApi.csproj|solutionrelative:screensoundapi\\filtros\\linqfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nggal\\OneDrive\\\u00C1rea de Trabalho\\ALURA\\C# .NET\\ScreenSoundApi\\ScreenSoundApi\\Filtros\\LinqFilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ScreenSoundApi\\Filtros\\LinqFilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63D47441-E5EA-4D58-9920-E44D3D8B688E}|ScreenSoundApi\\ScreenSoundApi.csproj|c:\\users\\nggal\\onedrive\\\u00E1rea de trabalho\\alura\\c# .net\\screensoundapi\\screensoundapi\\modelos\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63D47441-E5EA-4D58-9920-E44D3D8B688E}|ScreenSoundApi\\ScreenSoundApi.csproj|solutionrelative:screensoundapi\\modelos\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nggal\\OneDrive\\\u00C1rea de Trabalho\\ALURA\\C# .NET\\ScreenSoundApi\\ScreenSoundApi\\Modelos\\Musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ScreenSoundApi\\Modelos\\Musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,8 +38,7 @@
               "RelativeToolTip": "ScreenSoundApi\\Filtros\\LinqOrder.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-03T16:15:41.632Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-03T16:15:41.632Z"
             },
             {
               "$type": "Document",
@@ -49,7 +48,7 @@
               "RelativeDocumentMoniker": "ScreenSoundApi\\Filtros\\LinqFilter.cs",
               "ToolTip": "C:\\Users\\nggal\\OneDrive\\\u00C1rea de Trabalho\\ALURA\\C# .NET\\ScreenSoundApi\\ScreenSoundApi\\Filtros\\LinqFilter.cs",
               "RelativeToolTip": "ScreenSoundApi\\Filtros\\LinqFilter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAUwCkAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-03T16:02:34.148Z"
             },
@@ -61,7 +60,7 @@
               "RelativeDocumentMoniker": "ScreenSoundApi\\Modelos\\Musica.cs",
               "ToolTip": "C:\\Users\\nggal\\OneDrive\\\u00C1rea de Trabalho\\ALURA\\C# .NET\\ScreenSoundApi\\ScreenSoundApi\\Modelos\\Musica.cs",
               "RelativeToolTip": "ScreenSoundApi\\Modelos\\Musica.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-03T03:28:36.33Z"
             },
@@ -73,7 +72,7 @@
               "RelativeDocumentMoniker": "ScreenSoundApi\\Program.cs",
               "ToolTip": "C:\\Users\\nggal\\OneDrive\\\u00C1rea de Trabalho\\ALURA\\C# .NET\\ScreenSoundApi\\ScreenSoundApi\\Program.cs",
               "RelativeToolTip": "ScreenSoundApi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA6AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-03T02:32:09.314Z",
               "EditorCaption": ""
